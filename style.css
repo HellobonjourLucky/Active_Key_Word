@@ -5,20 +5,22 @@
 body{
     /* background-image:url("bg.png"); */
     width: 1024px;
-    height: 3095px;
+    height: 980px;
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .bg{
-    width: 1400px;
+    /* width: 1400px; */
+    width: 430px;
 }
 
 .q5{
-    width: 910px;
+    /* width: 910px; */
+    width: 280px;
     position: absolute;
-    top: 124px;
-    left: 48px;
+    top: 38px;
+    left: 15px;
     /* border: 1px solid red;
     opacity: 50%; */
 }
@@ -28,7 +30,8 @@ body{
 }
 
 .q4{
-    width: 730px;
+    /* width: 730px; */
+    width: 222px;
     position: absolute;
     /* border: 1px solid red;
     opacity: 50%; */
@@ -40,29 +43,30 @@ body{
 
 
 .q8{
-    width: 730px;
+    /* width: 730px; */
+    width: 220px;
     position: absolute;
-    top: 1300px;
-    left: 395px;
+    top: 400px;
+    left: 123px;
     /* border: 1px solid red;
     opacity: 50%; */
-} 
+}
 .q8:hover{
     opacity: 0;
     transition: all 0.4s ease-out;
 }
 
 .basket{
-    top: 990px;
-    left: 570px;
+    top: 304px;
+    left: 175px;
 }
 
 .balloon{
-    top: 1860px;
+    top:  573px;
     left: 0px;
 }
 
 .flight{
-    top: 2433px;
-    left: 122px;
+    top: 748px;
+    left: 38px;
 }
