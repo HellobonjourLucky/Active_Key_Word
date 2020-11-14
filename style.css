@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+
+body{
+    /* background-image:url("bg.png"); */
+    width: 1024px;
+    height: 3095px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.bg{
+    width: 1400px;
+}
+
+.q5{
+    width: 910px;
+    position: absolute;
+    top: 124px;
+    left: 48px;
+    /* border: 1px solid red;
+    opacity: 50%; */
+}
+.q5:hover{
+    opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.q4{
+    width: 730px;
+    position: absolute;
+    /* border: 1px solid red;
+    opacity: 50%; */
+}
+.q4:hover{
+    opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+
+.q8{
+    width: 730px;
+    position: absolute;
+    top: 1300px;
+    left: 395px;
+    /* border: 1px solid red;
+    opacity: 50%; */
+} 
+.q8:hover{
+    opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.basket{
+    top: 990px;
+    left: 570px;
+}
+
+.balloon{
+    top: 1860px;
+    left: 0px;
+}
+
+.flight{
+    top: 2433px;
+    left: 122px;
+}
